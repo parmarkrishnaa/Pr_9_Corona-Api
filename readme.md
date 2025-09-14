@@ -27,7 +27,7 @@ It fetches the latest COVID-19 data for India from the [Rootnet API](https://api
 ![Summary Screenshot](output.png)
 
 ### 🔹 State Search Example
-![State Screenshot](output.png)
+![State Screenshot](state_output.png)
 
 ---
 
@@ -35,12 +35,12 @@ It fetches the latest COVID-19 data for India from the [Rootnet API](https://api
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/covid19-tracker.git
+   git clone https://github.com/parmarkrishnaa/Pr_9_Corona-Api.git
    ```
 
 2. Open the project folder:
    ```bash
-   cd covid19-tracker
+   cd Pr_9_Corona-Api
    ```
 
 3. Run the app:  
@@ -72,4 +72,4 @@ It fetches the latest COVID-19 data for India from the [Rootnet API](https://api
 ---
 
 ## 👨‍💻 Author
-Made with ❤️ by **Your Name**
+Made with ❤️ by **Krishna Parmar**
