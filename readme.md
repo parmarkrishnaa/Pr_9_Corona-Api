@@ -49,7 +49,7 @@ It fetches the latest COVID-19 data for India from the [Rootnet API](https://api
 ---
 
 ## 🔗 Live Demo
-👉 [View Live Project](https://your-username.github.io/covid19-tracker/)  
+👉 [View Live Project](https://corona-api-ten.vercel.app/)  
 
 ---
 
